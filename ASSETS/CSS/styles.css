@@ -1,10 +1,10 @@
 /* GOOGLE FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 @import url('https://fonts.cdnfonts.com/css/gloss-and-bloom');
-@font-face {
+/* @font-face {
     font-family: Gloss_And_Bloom;
     src: url(/ASSETS/CSS/Gloss_And_Bloom.ttf);
-}
+} */
 
 /* PRELOADER */
 .loading{
